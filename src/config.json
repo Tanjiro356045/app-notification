@@ -1,5 +1,5 @@
 {
-    "name": "sample",
+    "name": "notif-pebble",
     "env": "dev",
     "cfg": {
         "module": "sample",
@@ -37,8 +37,8 @@
         },
         "dev": {
             "pas": true,
-            "authServer": "127.0.0.1:3333",
-            "tls": false
+            "authServer": "authenticatorlocalonline-utuvyi37ea-ew.a.run.app/licences",
+            "tls": true
         }
     },
     "firebaseConfig": {

@@ -42,6 +42,7 @@
 			<AppMenu>
 				<AppMenuItem href="/" look="dark" icon="bi bi-house">Accueil</AppMenuItem>
 				<AppMenuItem href="/about" look="dark" icon="bi bi-app">À propos</AppMenuItem>
+        <AppMenuItem href="/Notification" look="dark" icon="bi bi-app">Notifications</AppMenuItem>
 			</AppMenu>
 		</template>
 
