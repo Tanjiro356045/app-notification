@@ -28,14 +28,16 @@ export default {
 <style>
 
 .service-container {
-  border: 3px solid red;  /* Let's make it more noticeable */
+  border: 1px solid;
   padding: 10px;
   margin-bottom: 20px;
 }
 
 .notification-item {
-  border: 3px solid red;  /* Let's make it more noticeable */
+  border-radius: 20px;
+  border: 1px solid;
   padding: 10px;
   margin-bottom: 20px;
+  list-style: none;
 }
 </style>
